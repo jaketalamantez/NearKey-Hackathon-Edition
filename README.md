@@ -660,9 +660,18 @@ The next stage is moving NearKey from a demonstration authentication provider to
 
 ## 👥 Team
 
-NearKey was created during **Rowdy Hacks XII** and earned **2nd Place in the Beginner Track**.
+NearKey was created by a four-person team during **Rowdy Hacks XII**, where it earned **2nd Place in the Beginner Track**.
 
-The team continues to develop the project beyond the hackathon with a focus on:
+### Contributors
+
+- [@jaketalamantez](https://github.com/jaketalamantez)
+- [@Quinntyx](https://github.com/Quinntyx)
+- [@Wizardthelizard9](https://github.com/Wizardthelizard9)
+- [@Ambassators](https://github.com/Ambassators)
+
+Together, the team designed and developed NearKey's authentication flow, mobile authenticator, Bluetooth communication, backend infrastructure, and user experience during the hackathon.
+
+Development continues beyond Rowdy Hacks with a focus on:
 
 **Identity • Authentication • Applied Cryptography • Mobile Security • Financial Security • Anti-Phishing • Proximity Authentication**
 
