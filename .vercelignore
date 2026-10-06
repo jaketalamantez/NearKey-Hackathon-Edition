@@ -1,0 +1,8 @@
+android/
+ios/
+Nearkey/
+.data/
+output/
+rowdyhacks/
+.env
+.env.*
