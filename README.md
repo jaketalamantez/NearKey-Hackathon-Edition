@@ -16,7 +16,8 @@ Instead of asking users to retrieve and manually enter a one-time passcode, Near
 
 NearKey began as a hackathon project focused on improving authentication for financial services. The current version is a working research prototype designed to explore faster, lower-friction authentication while reducing reliance on transferable OTP codes that can be exposed through phishing or social engineering.
 
-🌐 **Live Demo:** https://nearkey.vercel.app/  
+🌐 **Live Demo:** https://nearkey.vercel.app/ (refresh if it does not load) 
+
 🏆 **Devpost:** https://devpost.com/software/nearkey
 
 ---
